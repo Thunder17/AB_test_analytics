@@ -1,7 +1,7 @@
 # AB_test_analytics
 
 ### Ссылка на дашборд
-[Tableau public]([https://public.tableau.com/views/PROJECT_DASHBOARD_17136171286220](https://public.tableau.com/views/_17181761337610/HISTORY?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link))
+[Tableau public](https://public.tableau.com/views/PROJECT_DASHBOARD_17136171286220)
 ## Описание Проекта
 В маркетплейсе «Всё.техника» решили выделить игровые ноутбуки в отдельную категорию 
 товаров — до этого они были в одной категории с ПК и обычными ноутбуками. Прежде чем 
