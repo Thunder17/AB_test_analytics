@@ -17,9 +17,9 @@
 ### 1 Этап: Анализ исторических данных.
 ![Image alt](https://github.com/Thunder17/AB_test_analytics/raw/main/HISTORY.png)
 ### 2 Этап: Проведение теста.
-
+![Image alt](https://github.com/Thunder17/AB_test_analytics/raw/main/WHILE%20TEST.png)
 ### 3 Этап: Анализ результатов теста.
-
+![Image alt](https://github.com/Thunder17/AB_test_analytics/raw/main/TEST%20RESULTS.png)
 
 ## Результаты
 
