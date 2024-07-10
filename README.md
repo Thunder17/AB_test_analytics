@@ -1,5 +1,5 @@
 # AB_test_analytics
-![Image alt]()
+
 ### Ссылка на дашборд
 [Tableau public]([https://public.tableau.com/views/PROJECT_DASHBOARD_17136171286220](https://public.tableau.com/views/_17181761337610/HISTORY?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link))
 ## Описание Проекта
@@ -15,7 +15,7 @@
 проанализировать результаты эксперимента.
 
 ### 1 Этап: Анализ исторических данных.
-
+![Image alt](https://github.com/Thunder17/AB_test_analytics/raw/main/HISTORY.png)
 ### 2 Этап: Проведение теста.
 
 ### 3 Этап: Анализ результатов теста.
