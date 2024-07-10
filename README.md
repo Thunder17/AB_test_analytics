@@ -1,4 +1,4 @@
-# AB_test_analytics
+# Проведение и анализ результатов AB-теста
 
 ### Ссылка на дашборд
 [Tableau public](https://public.tableau.com/app/profile/stepan.selin/viz/_17181761337610/HISTORY)
